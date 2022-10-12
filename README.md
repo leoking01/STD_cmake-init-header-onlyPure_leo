@@ -1,0 +1,1 @@
+# cmake-init-header-onlyPure
